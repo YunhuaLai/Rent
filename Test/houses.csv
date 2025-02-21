@@ -1,0 +1,11 @@
+name,address,coordinate,start,end,priority
+House_1,Some Address 1,-33.696095,150.595951,781,977,2
+House_2,Some Address 2,-33.773162,151.085434,634,771,1
+House_3,Some Address 3,-33.971516,151.327908,607,1009,5
+House_4,Some Address 4,-33.654228,150.966692,879,999,2
+House_5,Some Address 5,-33.625101,151.324554,631,843,4
+House_6,Some Address 6,-33.866616,150.564233,679,852,2
+House_7,Some Address 7,-33.890907,151.339293,1078,1078,4
+House_8,Some Address 8,-33.945371,151.026321,851,991,1
+House_9,Some Address 9,-33.967907,150.584356,954,1033,5
+House_10,Some Address 10,-33.817973,150.635477,716,883,4
