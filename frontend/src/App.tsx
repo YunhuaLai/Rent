@@ -1,14 +1,22 @@
-// src/App.tsx
-
-import React from 'react';
-import HouseForm from './HouseForm';
+import React, { useState } from 'react';
+import HouseForm from './components/HouseForm';
+import AutoImport from './components/AutoImport';
+import HouseList from './components/HouseList';
+import { HouseInput } from './types';
 
 const App: React.FC = () => {
+  const [houses, setHouses] = useState<HouseInput[]>([]);
+
+  const addHouse = (house: HouseInput) => {
+    setHouses(prev => [...prev, house]);
+  };
+
   return (
     <div>
       <h1>Inspection Scheduler</h1>
-      <HouseForm />
-      {/* Later, you can add a section that displays the top three chains by fetching from your backend */}
+      <AutoImport onHouseImported={addHouse} />
+      <HouseForm onHouseAdded={addHouse} />
+      <HouseList houses={houses} />
     </div>
   );
 };

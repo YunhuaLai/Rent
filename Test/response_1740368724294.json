@@ -1,0 +1,118 @@
+{
+  "objective": "rent",
+  "status": "leased",
+  "saleMode": "leased",
+  "channel": "residential",
+  "id": 13498963,
+  "addressParts": {
+    "stateAbbreviation": "nsw",
+    "displayType": "fullAddress",
+    "streetNumber": "23",
+    "unitNumber": "3",
+    "street": "Elizabeth Street",
+    "suburb": "Ashfield",
+    "postcode": "2131",
+    "displayAddress": "3/23 Elizabeth Street, Ashfield NSW 2131"
+  },
+  "advertiserIdentifiers": {
+    "advertiserType": "agency",
+    "advertiserId": 22931,
+    "contactIds": [
+      1640955
+    ],
+    "agentIds": [
+      "A37218"
+    ]
+  },
+  "apmIdentifiers": {
+    "suburbId": 1212
+  },
+  "bathrooms": 1,
+  "bedrooms": 2,
+  "buildingAreaSqm": 78,
+  "carspaces": 1,
+  "dateAvailable": "2024-03-15T00:00:00+11:00",
+  "dateUpdated": "2024-02-16T07:59:38.57Z",
+  "dateListed": "2024-02-03T07:46:40Z",
+  "description": "Please use the property ID code 2323 when phoning. Please do not text.\r\n\r\nThis bright, recently renovated two bedroom apartment is a 5 min walk to the station & shops, in a small block of only 6 apartments. It is complete with all the essentials. \r\n\r\n+ Architect-designed recently renovated kitchen and bathroom \r\n+ Integrated new dishwasher \r\n+ New floorboards throughout\r\n+ Combined airy living/dining room \r\n+ Balcony with leafy outlook off living area \r\n+ Powerful new Split System Air Conditioning \r\n+ Main bedroom with built-in robe \r\n+ Internal laundry & linen cupboard \r\n+ Oversized lock-up garage with internal access. Landlord has some items in storage - can negotiate your needs.\r\n+ Good condition Lieder piano in garage to remain at the property. Welcome to play! \r\n\r\nTo book an inspection please use the RED 'Get in Touch' tab (on a desktop) or RED 'Email' (on an Android, iPhone  or iPad) which will go directly to the person managing the property..",
+  "features": [
+    "Air conditioning",
+    "Balcony / Deck",
+    "Built in wardrobes",
+    "Dishwasher",
+    "Electric Hot Water Service",
+    "Floorboards",
+    "Secure Parking",
+    "Pets allowed"
+  ],
+  "geoLocation": {
+    "latitude": -33.8875251,
+    "longitude": 151.1279437
+  },
+  "headline": "Bright Recently Renovated 2 Bed Apartment Close to Ashfield Station",
+  "isNewDevelopment": false,
+  "media": [
+    {
+      "category": "image",
+      "type": "photo",
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/13498963_1_1_211120_120746-w1200-h801"
+    },
+    {
+      "category": "image",
+      "type": "photo",
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/13498963_2_1_240203_074732-w1200-h831"
+    },
+    {
+      "category": "image",
+      "type": "photo",
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/13498963_3_1_240203_074732-w622-h900"
+    },
+    {
+      "category": "image",
+      "type": "photo",
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/13498963_4_1_240203_074732-w621-h900"
+    },
+    {
+      "category": "image",
+      "type": "photo",
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/13498963_4_1_200823_063708-w1200-h785"
+    },
+    {
+      "category": "image",
+      "type": "photo",
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/13498963_7_1_200823_063708-w1200-h802"
+    },
+    {
+      "category": "image",
+      "type": "photo",
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/13498963_7_1_240203_074732-w1200-h775"
+    },
+    {
+      "category": "image",
+      "type": "photo",
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/13498963_6_1_211114_062351-w1200-h651"
+    },
+    {
+      "category": "image",
+      "type": "photo",
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/13498963_8_1_200823_063708-w607-h900"
+    }
+  ],
+  "priceDetails": {
+    "canDisplayPrice": false,
+    "displayPrice": "$650 per week"
+  },
+  "propertyId": "DM-5528-HH",
+  "propertyTypes": [
+    "apartmentUnitFlat"
+  ],
+  "rentalDetails": {
+    "rentalMethod": "rent",
+    "source": "internal",
+    "leasedDate": "2024-02-16T00:00:00+11:00",
+    "leasedPrice": 650,
+    "canDisplayPrice": false,
+    "leasedMonths": 52
+  },
+  "seoUrl": "https://stage.domain.com.au/3-23-elizabeth-street-ashfield-nsw-2131-13498963"
+}
